@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/yourusername/youtube-music-desktop?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/stars/yourusername/youtube-music-desktop?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/youtube-music-desktop?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/license/merensonmez/youtube-music-desktop?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/merensonmez/youtube-music-desktop?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/merensonmez/youtube-music-desktop?style=flat-square" alt="Forks">
 </p>
 
 <p align="center">
@@ -78,6 +78,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🔗 Connect
 
-Made with ❤️ by Muhammed Eren Sönmez
-Follow me on [Linkedin](https://www.linkedin.com/in/muhammederensonmez/) • [GitHub](https://github.com/merensonmez)
+Made with ❤️ by Muhammed Eren Sönmez  
+Follow me on <a href="https://www.linkedin.com/in/muhammederensonmez/" target="_blank">LinkedIn</a> • <a href="https://github.com/merensonmez" target="_blank">GitHub</a>
 
