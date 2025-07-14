@@ -78,6 +78,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🔗 Connect
 
-Made with ❤️ by [Muhammed Eren Sönmez]
-Follow me on [Twitter](https://twitter.com/yourusername) • [GitHub](https://github.com/yourusername)
+Made with ❤️ by Muhammed Eren Sönmez
+Follow me on [Linkedin](https://www.linkedin.com/in/muhammederensonmez/) • [GitHub](https://github.com/merensonmez)
 
